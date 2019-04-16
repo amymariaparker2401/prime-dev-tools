@@ -13,7 +13,7 @@
     "atom-workspace": "prime-dev-tools:new_prime_service",
     "atom-workspace": "prime-dev-tools:new_unit_test"
   },
-  "repository": "https://github.dominionenterprises.com/michael-desanty/prime-dev-tools",
+  "repository": "https://github.com/mdesanty/prime-dev-tools",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

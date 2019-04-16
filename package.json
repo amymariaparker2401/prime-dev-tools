@@ -1,0 +1,23 @@
+{
+  "name": "prime-dev-tools",
+  "main": "./lib/prime-dev-tools",
+  "version": "1.0.0",
+  "description": "Sweet dev tools",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "prime-dev-tools:toggle",
+    "atom-workspace": "prime-dev-tools:assert_equal",
+    "atom-workspace": "prime-dev-tools:add_header",
+    "atom-workspace": "prime-dev-tools:new_class",
+    "atom-workspace": "prime-dev-tools:new_prime_service",
+    "atom-workspace": "prime-dev-tools:new_unit_test"
+  },
+  "repository": "https://github.com/michael-desanty/prime-dev-tools",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

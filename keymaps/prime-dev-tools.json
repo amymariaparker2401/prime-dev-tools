@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "prime-dev-tools:toggle",
+    "ctrl-alt-a": "prime-dev-tools:assert_equal"
+  }
+}

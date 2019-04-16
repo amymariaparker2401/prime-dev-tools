@@ -1,0 +1,66 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle prime-dev-tools",
+        "command": "prime-dev-tools:toggle"
+      },
+      {
+        "label": "Assert Equal",
+        "command": "prime-dev-tools:assert_equal"
+      },
+      {
+        "label": "Add Header",
+        "command": "prime-dev-tools:add_header"
+      },
+      {
+        "label": "New Class",
+        "command": "prime-dev-tools:new_class"
+      },
+      {
+        "label": "New Prime Service",
+        "command": "prime-dev-tools:new_prime_service"
+      },
+      {
+        "label": "New Unit Test",
+        "command": "prime-dev-tools:new_unit_test"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "prime-dev-tools",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "prime-dev-tools:toggle"
+            },
+            {
+              "label": "Assert Equal",
+              "command": "prime-dev-tools:assert_equal"
+            },
+            {
+              "label": "Add Header",
+              "command": "prime-dev-tools:add_header"
+            },
+            {
+              "label": "New Class",
+              "command": "prime-dev-tools:new_class"
+            },
+            {
+              "label": "New Prime Service",
+              "command": "prime-dev-tools:new_prime_service"
+            },
+            {
+              "label": "Unit Test",
+              "command": "prime-dev-tools:new_unit_test"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
